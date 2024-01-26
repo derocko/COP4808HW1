@@ -1,11 +1,11 @@
 # COP4808HW1
 # Web Development Project 1 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **David Miloseski**
 
-This web app: **insert description**
+This web app: **Shows Many Game Stores In South Florida And What Games They Sell**
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
